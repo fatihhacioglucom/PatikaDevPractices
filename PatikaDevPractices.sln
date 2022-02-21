@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{045FE9B3-C62F-4D88-8FBF-154C259150D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{045FE9B3-C62F-4D88-8FBF-154C259150D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{2F63125B-46D4-46D6-9DD2-123F777364B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{2F63125B-46D4-46D6-9DD2-123F777364B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{559FCDC0-AFC3-40CB-A2B4-79B197422431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559FCDC0-AFC3-40CB-A2B4-79B197422431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559FCDC0-AFC3-40CB-A2B4-79B197422431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559FCDC0-AFC3-40CB-A2B4-79B197422431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559FCDC0-AFC3-40CB-A2B4-79B197422431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
