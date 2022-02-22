@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Oper
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{46056DEC-5CC2-477D-87A5-91A3A7FE5A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{559FCDC0-AFC3-40CB-A2B4-79B197422431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{559FCDC0-AFC3-40CB-A2B4-79B197422431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{EC129430-1E3A-4C8D-BCA9-FAA6483DF0B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElseIf", "IfElseIf\IfElseIf.csproj", "{EC129430-1E3A-4C8D-BCA9-FAA6483DF0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CC2E5963-CD26-429F-BDDB-E9AAE657EDCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CC2E5963-CD26-429F-BDDB-E9AAE657EDCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopBreakContinue", "ForLoopBreakContinue\ForLoopBreakContinue.csproj", "{F057D82B-13F5-465F-B0C1-393A23A282D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoopBreakContinue", "ForLoopBreakContinue\ForLoopBreakContinue.csproj", "{F057D82B-13F5-465F-B0C1-393A23A282D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileForeachLoops", "WhileForeachLoops\WhileForeachLoops.csproj", "{C19968B1-449F-4A77-9CE7-A6A8F7DCF967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeachLoops", "WhileForeachLoops\WhileForeachLoops.csproj", "{C19968B1-449F-4A77-9CE7-A6A8F7DCF967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{4D42FC2B-8AAE-454C-B55B-719A99EF6720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{4D42FC2B-8AAE-454C-B55B-719A99EF6720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassesMethod", "ArrayClassMethod\ArrayClassesMethod.csproj", "{3D773EC0-1FA7-4CAF-AAC3-30683C5C3EDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4D42FC2B-8AAE-454C-B55B-719A99EF6720}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D42FC2B-8AAE-454C-B55B-719A99EF6720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D42FC2B-8AAE-454C-B55B-719A99EF6720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D773EC0-1FA7-4CAF-AAC3-30683C5C3EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D773EC0-1FA7-4CAF-AAC3-30683C5C3EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D773EC0-1FA7-4CAF-AAC3-30683C5C3EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D773EC0-1FA7-4CAF-AAC3-30683C5C3EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
