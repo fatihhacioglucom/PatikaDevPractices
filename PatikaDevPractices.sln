@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassesMethod", "Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{A0385314-ED3E-49EF-A6DC-F49AEA3DFE3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{20DBF0F7-6C90-4D99-A25E-B8605DE9F91C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A0385314-ED3E-49EF-A6DC-F49AEA3DFE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0385314-ED3E-49EF-A6DC-F49AEA3DFE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0385314-ED3E-49EF-A6DC-F49AEA3DFE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DBF0F7-6C90-4D99-A25E-B8605DE9F91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DBF0F7-6C90-4D99-A25E-B8605DE9F91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DBF0F7-6C90-4D99-A25E-B8605DE9F91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DBF0F7-6C90-4D99-A25E-B8605DE9F91C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
